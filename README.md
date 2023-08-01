@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikunj-Goswami4&label=Profile%20views&color=0e75b6&style=flat" alt="Nikunj-Goswami4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh97244&label=Profile%20views&color=0e75b6&style=flat" alt="Nikunj-Goswami4" /> </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh9724&show_icons=true&locale=en&layout=compact" alt="Harsh9724" /></p>
 
